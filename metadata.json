@@ -1,0 +1,6 @@
+{
+  "name": "Casa Aseo",
+  "description": "Limpieza y lavado de alfombras a domicilio en Santiago y Rancagua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
